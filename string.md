@@ -1,7 +1,7 @@
 # 字串處理
 
-### 新方法
-* indludes()
+## 新方法
+* includes()
 * startsWith()
 * endsWith()
 * repeat()
